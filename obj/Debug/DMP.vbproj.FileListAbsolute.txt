@@ -1,0 +1,30 @@
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\bin\Debug\DMP.exe.config
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\bin\Debug\DMP.exe
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\bin\Debug\DMP.pdb
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\bin\Debug\DMP.xml
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.vbproj.ResolveComReference.cache
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.Form1.resources
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.Resources.resources
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.vbproj.GenerateResource.Cache
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.exe
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.xml
+C:\Users\Rock\AppData\Local\Temporary Projects\DMP\obj\Debug\DMP.pdb
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Debug\DMP.exe.config
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.vbproj.ResolveComReference.cache
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.exe
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.xml
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.pdb
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Debug\DMP.exe
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Debug\DMP.pdb
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Debug\DMP.xml
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.Form1.resources
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.Resources.resources
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Debug\DMP.vbproj.GenerateResource.Cache

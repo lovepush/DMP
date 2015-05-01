@@ -1,0 +1,15 @@
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Release\DMP.exe.config
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\Interop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.vbproj.ResolveComReference.cache
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Release\DMP.exe
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Release\DMP.pdb
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Release\DMP.xml
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Release\Interop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.Form1.resources
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.Resources.resources
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.vbproj.GenerateResource.Cache
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.exe
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.xml
+C:\Users\Rock\Documents\Visual Studio 2013\Projects\DMP\DMP\obj\Release\DMP.pdb
